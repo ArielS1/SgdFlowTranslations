@@ -3,7 +3,7 @@
     <flowDefinitions>
         <flows>
             <textTemplates>
-                <name>JSONForArrivalStatusSMS</name>
+                <name>JSONForArrivalStatusSMS1</name>
             </textTemplates>
             <textTemplates>
                 <name>MeturtarSADetails</name>
