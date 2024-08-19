@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>55.0</apiVersion>
-    <interviewLabel>SGD {!$Flow.CurrentDateTime}..</interviewLabel>
+    <interviewLabel>SGD {!$Flow.CurrentDateTime}.x.</interviewLabel>
     <label>Other Label</label>
     <processMetadataValues>
         <name>BuilderType</name>
